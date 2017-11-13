@@ -1,6 +1,6 @@
 # Part 2 - CSS-in-JS and Separation of Concerns
 
-In the previous article, I covered how BEM is used to solve the state of CSS specificity. However, JavaScript community have other Ideas and it revolves around CSS in JS. Before I start this, I will be clear even if JavaScript community hates me (mind you, I am from the same JavaScript community) but still I will stick to my viewpoint that CSS in JS can become the **worst** approach if **separation of concerns** is not taken care of. 
+In the [previous](https://tech.io/playgrounds/9922/the-state-of-css-specificity-part-1) article, I covered how BEM is used to solve the state of CSS specificity. However, JavaScript community have other Ideas and it revolves around CSS in JS. Before I start this, I will be clear even if JavaScript community hates me (mind you, I am from the same JavaScript community) but still I will stick to my viewpoint that CSS in JS can become the **worst** approach if **separation of concerns** is not taken care of. 
 
 We’re in an era of “components”. We are building interactive UI’s based on components. We are no longer structuring entire documents, we are structuring tiny reusable pieces. All of these methodologies (SMACSS/BEM) was invented to make everything work in a component based fashion as it’s essential to use components correctly to build user interfaces. They are just tiny reusable building blocks which are getting plugged together to create your next awesome Interactive Applications. Moreover, If you are understanding those small pieces of the reusable building blocks, you can very easily understand the big picture behind it. 
 
@@ -155,6 +155,6 @@ You can still leverage Vue’s hot-reloading and pre-compilation features by sep
   
 ## **Wrapping Up**
 
-Hope you liked my viewpoint on CSS in JS, especially . This is just the second part of the story, next up I will cover up new boy in the mix, ECSS which according to me (yes, opinionated) is better approach then both BEM or CSSinJS.
+Hope you liked my viewpoint on CSS in JS, especially . This is just the second part of the story, [next up](https://tech.io/playgrounds/9924/the-state-of-css-specificity-part-3) I will cover up the new boy in the mix, ECSS which according to me (yes, opinionated) is better approach then both BEM or CSSinJS.
 
 **Thanks a lot**, If you liked my article and also my passion for teaching and want to say hello… my twitter handle is [@harmanmanchanda](https://bit.ly/tw-harry). My DM’s are open to the public so just hit me up.
